@@ -1,0 +1,115 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+} 
+body {
+	padding-left: 5em;
+	padding-right: 5em;
+}
+h1{
+	text-align: center;
+	font-size: 36px;
+	font-family: avenir medium;
+	padding-bottom: 2px;
+	margin-bottom: -20px;
+
+}
+
+h2 {
+	text-align: center;
+	font-size: 20px;
+	font-family: minion pro medium;
+
+
+
+}
+
+IMG.intro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+}
+p {
+	width: 60px;
+}
+
+.introp{
+	padding-left: 9em;
+	padding-right: 9em;
+	font-family: avenir;
+	text-align: left;
+	line-height: 175%;
+}
+
+.year{
+	padding-left: 5em;
+	padding-right: 5em;
+	display: inline-block;
+}
+
+
+}
+
+.paraone{
+	padding-left: 9em;
+	padding-right: 9em;
+	font-family: avenir;
+	text-align: left;
+	line-height: 175%;
+}
+IMG.camille{
+	float: left;
+	display: inline-block;
+}
+
+IMG.Baker{
+	float: right;
+	display: inline-block;
+}
+
+.h{
+	font-size: 28px;
+	padding-top: 3em;
+
+}
+
+.box {
+	display: inline-block;
+}
+
+IMG.horne{
+	float: left;
+	display: inline-block;
+}
+
+IMG.real{
+	float: left;
+	display: inline-block;
+
+}
+
+IMG.ideal{
+	float: right;
+	display: inline-block;
+}
+
+IMG.photos{
+	padding-left: 30em;
+}
+
+.paraone{
+	padding-left: 9em;
+	padding-right: 9em;
+	font-family: avenir;
+	text-align: left;
+	line-height: 175%;
+}
+
+ .line {
+	width: 90%;
+	background-color: black;
+	height: 4px;
+	margin-top: 10px;
+
+}
